@@ -4,16 +4,13 @@ Cause having fun is a serious stuff.
 
 #### Credits
 
-> This web page is built with [Jekyll](http://jekyllrb.com) and love.
+> This web page is built with [Jekyll](http://jekyllrb.com) and hosted by :octocat: with love.
 
-##### Theme:
+**Theme**:
+[Eventually](http://html5up.net/eventually)
 
-* [Eventually](http://html5up.net/eventually)
+**Icons**:
+[Font Awesome](http://fortawesome.github.com/Font-Awesome)
 
-##### Icons:
-
-* [Font Awesome](http://fortawesome.github.com/Font-Awesome)
-
-##### JS:
-
-* [Skel](http://skel.io)
+**JS**:
+[Skel](http://skel.io)
