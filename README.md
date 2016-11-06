@@ -1,17 +1,19 @@
-## Singin Flower
+# Singin Flower
 
 Cause having fun is a serious stuff.
 
+#### Credits
 
-Credits:
+> This web page is built with [Jekyll](http://jekyllrb.com) and love.
 
-    Theme:
-        Eventually (html5up.net/eventually)
+##### Theme:
 
-	Icons:
-		Font Awesome (fortawesome.github.com/Font-Awesome)
+* [Eventually](http://html5up.net/eventually)
 
-	Other:
-		html5shiv.js (@afarkas @jdalton @jon_neal @rem)
-		Respond.js (j.mp/respondjs)
-		Skel (skel.io)
+##### Icons:
+
+* [Font Awesome](http://fortawesome.github.com/Font-Awesome)
+
+##### JS:
+
+* [Skel](http://skel.io)
