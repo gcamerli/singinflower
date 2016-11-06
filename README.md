@@ -1,8 +1,8 @@
-# Singin Flower
+# **Singin Flower**
 
-Cause having fun is a serious stuff.
+_Cause having fun is a serious stuff._
 
-#### Credits
+### **Credits**
 
 > This web page is built with [Jekyll](http://jekyllrb.com) and hosted by :octocat: with love.
 
