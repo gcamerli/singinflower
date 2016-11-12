@@ -29,12 +29,6 @@
 			}, 100);
 		});
     
-    // Audio delay
-    
-    setTimeout(function() 
-               
-               { your_func(); }, 5000);
-
 	// Slideshow Background.
 		(function() {
 
