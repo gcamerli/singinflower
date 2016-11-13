@@ -37,7 +37,7 @@
 
 					// Images (in the format of 'url': 'alignment').
 						images: {
-							'images/slider_SF1_motion.jpg': 'center',
+							'images/slider_SF1_motion_2.jpg': 'center',
 						},
 
 					// Delay.
