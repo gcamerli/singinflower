@@ -1,4 +1,4 @@
-# **Singin' Flower ®**
+# **Singin' Flower**
 
 _'cause having fun is a serious stuff._
 
