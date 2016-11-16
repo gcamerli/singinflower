@@ -1,6 +1,6 @@
 # **Singin' Flower**
 
-_'cause having fun is a serious stuff._
+_Having fun is a serious stuff._
 
 ### **Credits**
 
