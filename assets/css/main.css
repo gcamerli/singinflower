@@ -468,6 +468,7 @@
 		color: rgba(255, 255, 255, 0.5);
 		position: relative;
 		margin: 0 0 1.5em 0;
+		letter-spacing: 0.2em;
 	}
 
 	header h2 + p {
@@ -962,30 +963,14 @@
 		white-space: nowrap;
 	}
 
-		input[type="submit"]:hover,
-		input[type="reset"]:hover,
-		input[type="button"]:hover,
-		button:hover,
 		.button:hover {
 			background-color: #ff512e;
 		}
 
-		input[type="submit"]:active,
-		input[type="reset"]:active,
-		input[type="button"]:active,
-		button:active,
 		.button:active {ss
 			background-color: #cc4125;
 		}
 
-		input[type="submit"].disabled, input[type="submit"]:disabled,
-		input[type="reset"].disabled,
-		input[type="reset"]:disabled,
-		input[type="button"].disabled,
-		input[type="button"]:disabled,
-		button.disabled,
-		button:disabled,
-		.button.disabled,
 		.button:disabled {
 			opacity: 0.5;
 		}
@@ -1006,7 +991,7 @@
 
 	#header h1 {
 		font-family: 'Zeyada';
-		font-size: 4.50em;
+		font-size: 5.0em;
 		letter-spacing: 0.15em;
 		margin: 0.3em 0 0.5em 0;
 	}
