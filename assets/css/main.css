@@ -1014,7 +1014,7 @@
 	}
 
 	#header p {
-		font-size: 1em;
+		font-size: 0.9em;
 		line-height: 1.5em;
 		letter-spacing: 0.1em;
 	}
@@ -1026,7 +1026,7 @@
 	img.center {
 		display: block;
 		margin: 0 auto;
-		padding-bottom: 1em;
+		padding-bottom: 0.8em;
 	}
 
 	@media screen and (max-width: 736px) {
@@ -1036,7 +1036,7 @@
 		}
 
 		#header p {
-			font-size: 1em;
+			font-size: 0.9em;
 		}
 
 	}
@@ -1046,6 +1046,11 @@
 		#header {
 			margin: 0 0 1em 0;
 		}
+
+		#header p {
+			font-size: 0.8em;
+		}
+
 
 	}
 
