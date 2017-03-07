@@ -2,6 +2,8 @@
 
 _Having fun is serious stuff._
 
+![aurora](https://cdn.singinflower.com/image/slider_SF1_motion.gif)
+
 ### **Description**
 
 Character animation, 2D, 3D or stop motion, as a discipline ask for artistic sensitivity and knowledge about cinematography, acting and storytelling.
