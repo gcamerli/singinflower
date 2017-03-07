@@ -19,11 +19,11 @@
 	// Disable animations/transitions until everything's loaded.
 		$body.classList.add('is-loading');
 
-	//	window.addEventListener('load', function() {
-	//		window.setTimeout(function() {
-	//			$body.classList.remove('is-loading');
-	//		}, 100);
-	//	});
+		window.addEventListener('load', function() {
+			window.setTimeout(function() {
+				$body.classList.remove('is-loading');
+			}, 10);
+		});
 
 	// Slideshow Background.
 		(function() {
