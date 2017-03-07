@@ -22,7 +22,7 @@
 		window.addEventListener('load', function() {
 			window.setTimeout(function() {
 				$body.classList.remove('is-loading');
-			}, 10);
+			}, 1);
 		});
 
 	// Slideshow Background.
