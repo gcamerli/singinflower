@@ -1,1 +1,1 @@
-Sitemap: https://singinflower.com/sitemap.xml
+Sitemap: http://singinflower.com/sitemap.xml
