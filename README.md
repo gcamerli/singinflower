@@ -2,7 +2,7 @@
 
 _Having fun is serious stuff._
 
-![aurora](https://cdn.singinflower.com/image/slider_SF1_motion.gif)
+![aurora](https://cdn.singinflower.com/image/aurora.gif)
 
 ### **Description**
 
