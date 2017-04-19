@@ -13,7 +13,7 @@ Communicating and expressing, even with the director, we end focusing so much on
 
 [**Singin’Flower ®**](https://singinflower.com/) proposes an **“anti-industrial concept”** where someone can raise her/his passion and develop competencies in a wider and more satisfying way, with that original goal of express her/himself, **telling a story that needs to be told**, the main impetus to undertake the animation profession.
 
-[**Singin’Flower ®**](https://singinflower.com/) is a **community**, a **collaborative** production and an **educational** journey, a place where raise and develop **stories**, giving them the time to become **true**, even if not **real**.
+[**Singin’Flower ®**](https://singinflower.com/) is a **community**, a **collaborative production** and an **educational** journey, a place where raise and develop **stories**, giving them the time to become **true**, even if not **real**.
 
 ### **Credits**
 
