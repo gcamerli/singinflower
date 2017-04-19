@@ -13,7 +13,7 @@ Communicating and expressing, even with the director, we end focusing so much on
 
 [**Singin’Flower ®**](https://singinflower.com/) proposes an **“anti-industrial concept”** where someone can raise her/his passion and develop competencies in a wider and more satisfying way, with that original goal of express her/himself, **telling a story that needs to be told**, the main impetus to undertake the animation profession.
 
-This doesn’t mean we somehow overlook the competitiveness of the students’ results: conversely we’re firsthand supervisors of the products they come out with and present the best of them to the European and National specific festivals and competitions. We propose to all who start this **learning/creating adventure** with us to leave the suffocating and hectic pace of metropothtan life behind them and slow down: sometime we get the target better and faster simply lifting your foot from the accelerator :)
+[**Singin’Flower ®**](https://singinflower.com/) is a **community**, a **collaborative** production and an **educational** journey, a place where raise and develop **stories**, giving them the time to become **true**, even if not **real**.
 
 ### **Credits**
 
@@ -24,6 +24,9 @@ This web page is built with [Github pages](https://pages.github.com/) and hosted
 
 + **Icons**:
 [Font Awesome](https://fortawesome.github.com/Font-Awesome)
+
++ **Fonts**:
+[Google Fonts](https://fonts.google.com/)
 
 + **JS**:
 [Skel](https://skel.io)
