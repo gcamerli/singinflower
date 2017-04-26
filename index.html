@@ -29,6 +29,26 @@
 		<meta name="msapplication-wide310x150logo" content="https://cdn.singinflower.com/image/sf_icon/mstile-310x150.png">
 		<meta name="msapplication-square310x310logo" content="https://cdn.singinflower.com/image/sf_icon/mstile-310x310.png">
 		<link rel="stylesheet" href="assets/css/main.css">
+		<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css">
+		<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+		<script>
+		window.addEventListener("load", function(){
+		window.cookieconsent.initialise({
+  		"palette": {
+    		"popup": {
+    			"background": "#252e39"
+    		},
+    		"button": {
+    			"background": "#e24828"
+    		}
+  		},
+  		"theme": "edgeless",
+  		"content": {
+    		"message": "This website uses cookies to ensure you get the best experience.",
+    		"dismiss": "Accept"
+  		}
+		})});
+		</script>
 	</head>
 	<body>
 		<!-- Logo -->
@@ -83,9 +103,6 @@
 			<audio autoplay loop>
 				<source src="https://cdn.singinflower.com/music/pomme_de_amour.ogg" type="audio/ogg">
 			</audio>
-
-		<!-- Cookie policy -->
-				<script type="text/javascript" src="//cdn.jsdelivr.net/cookie-bar/1/cookiebar-latest.min.js?forceLang=enthirdparty=1&always=1&showNoConsent=1"></script>
 
 		<!-- Scripts -->
 			<script type="text/javascript" id="main" src="assets/js/main.js"></script>
