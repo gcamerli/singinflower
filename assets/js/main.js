@@ -33,7 +33,7 @@
 
 					// Images (in the format of 'url': 'alignment').
 						images: {
-							'https://cdn.singinflower.com/image/aurora.gif': 'center',
+							'https://cdn.singinflower.org/image/aurora.gif': 'center',
 						},
 
 					// Delay.
