@@ -84,7 +84,13 @@
 					<li><a href="mailto:karin@singinflower.com" target="_blank" class="icon fa-envelope-o" title="Mail"><span class="label">Email</span></a></li>
 				</ul>
 				<ul class="copyright">
-					<li>&copy; 2016 - 2017</li>
+					<li>&copy; 2016 -
+            <span id="copyright">
+            <script>
+              document.getElementById('copyright').appendChild(document.createTextNode(new Date().getFullYear()))
+            </script>
+            </span>
+          </li>
 					<li><a href="https://goo.gl/Zldic4" target="_blank" title="Singin'Flower &reg;">Singin'Flower &reg;</a></li>
 					<li><strong><a href="https://singinflower.com/about" title="About">About</a></strong></li>
 					<li><strong><a href="https://projects.singinflower.org" target="_blank" title="Projects">Projects</a></strong></li>
